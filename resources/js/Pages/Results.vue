@@ -9,7 +9,7 @@
         <div class="flex flex-col">
             <div class="py-4 flex flex-row">
                 <div class="w-1/3 sm:px-6 lg:px-4">
-                    <div class="bg-white shadow-xl sm:rounded-lg">
+                    <div class="bg-white shadow-xl sm:rounded-lg fixed inset-x-0 bottom-0 left-0 w-1/4">
                         <div class="pb-16 pl-2 pt-2">
                             2D Waveform Spectrogram
 
